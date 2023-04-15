@@ -1,5 +1,7 @@
 # This is a repository of the datasets used in scSpace
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7830663.svg)](https://doi.org/10.5281/zenodo.7830663)
+
 | DataSet | DataType | Species | Tissue | Technology | DataSource | Reference |
 | --- | --- | --- | --- | --- | --- | --- |
 | human_DLPFC | Spatial transcriptomics | human | human dorsolateral prefrontal cortex | 10x Visium | [http://spatial.libd.org/spatialLIBD/](http://spatial.libd.org/spatialLIBD/) | [Transcriptome-scale spatial gene expression in the human dorsolateral prefrontal cortex](https://doi.org/10.1038/s41593-020-00787-0) |
