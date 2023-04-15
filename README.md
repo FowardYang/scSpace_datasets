@@ -25,4 +25,4 @@
 | DataSet | DataType | Species | Tissue | Technology | DataSource | Reference |
 | --- | --- | --- | --- | --- | --- | --- |
 | human_DLPFC_st | Spatial transcriptomics | human | human dorsolateral prefrontal cortex | 10x Visium | [http://spatial.libd.org/spatialLIBD/](http://spatial.libd.org/spatialLIBD/) | [Transcriptome-scale spatial gene expression in the human dorsolateral prefrontal cortex](https://doi.org/10.1038/s41593-020-00787-0) |
-| mouse_V1_neocortex_st | Spatial transcriptomics | mouse | V1 primary visual cortex | STARmap | [Dropbox]([http://spatial.libd.org/spatialLIBD/](https://www.dropbox.com/sh/f7ebheru1lbz91s/AABYSSjSTppBmVmWl2H4s_K-a?dl=0)) | [Three-dimensional intact-tissue sequencing of single-cell transcriptional states](https://doi.org/10.1126/science.aat5691) |
+| mouse_V1_neocortex_st | Spatial transcriptomics | mouse | V1 primary visual cortex | STARmap | [Dropbox](https://www.dropbox.com/sh/f7ebheru1lbz91s/AABYSSjSTppBmVmWl2H4s_K-a?dl=0) | [Three-dimensional intact-tissue sequencing of single-cell transcriptional states](https://doi.org/10.1126/science.aat5691) |
