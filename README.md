@@ -1,6 +1,6 @@
 # This is a repository of the datasets used in scSpace
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7830663.svg)](https://doi.org/10.5281/zenodo.7830663)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7830764.svg)](https://doi.org/10.5281/zenodo.7830764)
 
 | DataSet | DataType | Species | Tissue | Technology | DataSource | Reference |
 | --- | --- | --- | --- | --- | --- | --- |
