@@ -1,6 +1,6 @@
 # This is a repository of the datasets used in scSpace
 
-- __[human_DLPFC]()__ -[10x Visium]- [Maynard, K. R. et al. Transcriptome-scale spatial gene expression in the human dorsolateral prefrontal cortex. Nat Neurosci 24, 425–436 (2021)]().
+- __[human_DLPFC]()__ -[human]- -[human dorsolateral prefrontal cortex]- -[10x Visium]- [Maynard, K. R. et al. Transcriptome-scale spatial gene expression in the human dorsolateral prefrontal cortex. Nat Neurosci 24, 425–436 (2021)]().
 - __[mouse_V1_neocortex](https://www.dropbox.com/sh/f7ebheru1lbz91s/AABYSSjSTppBmVmWl2H4s_K-a?dl=0)__ -[STARmap]- [Wang, X. et al. Three-dimensional intact-tissue sequencing of single-cell transcriptional states. Science 361, eaat5691 (2018)](https://doi.org/10.1126/science.aat5691).
 - __[human_breast_cancer]()__ -[ST]- []().
 - __[human_SCC_st]()__ -[ST]- []().
