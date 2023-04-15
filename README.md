@@ -23,3 +23,7 @@
 - __[human_COVID19_sc]()__ -[10x Genomics]- []().
 - __[human_COVID19_st]()__ -[10x Visium]- []().
 - __[human_COVID19_dsp]()__ -[GeoMx DSP]- []().
+
+| DataSet | DataType | Species | Tissue | Technology | DataSource | Reference |
+| --- | --- | --- | --- | --- | --- | --- |
+| human_DLPFC_st | Spatial transcriptomics | human | human dorsolateral prefrontal cortex | 10x Visium | [http://spatial.libd.org/spatialLIBD/](http://spatial.libd.org/spatialLIBD/) | [Transcriptome-scale spatial gene expression in the human dorsolateral prefrontal cortex](https://doi.org/10.1038/s41593-020-00787-0) |
