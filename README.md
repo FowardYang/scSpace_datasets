@@ -26,3 +26,13 @@
 | human_breast_cancer | Spatial transcriptomics | human | HER2 breast cancer | ST | [Zenodo](https://zenodo.org/record/5511763#.Y6kMduxBzUI) | [Spatial deconvolution of HER2-positive breast cancer delineates tumor-associated cell type interactions](https://doi.org/10.1038/s41467-021-26271-2) |
 | human_SCC_st | Spatial transcriptomics | human | skin squamous cell carcinoma | ST | [GSE144240](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE144240) | [Multimodal Analysis of Composition and Spatial Architecture in Human Squamous Cell Carcinoma](https://doi.org/10.1016/j.cell.2020.05.039) |
 | human_SCC_sc | scRNA-seq | human | skin squamous cell carcinoma | 10x Genomics | [GSE144240](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE144240) | [Multimodal Analysis of Composition and Spatial Architecture in Human Squamous Cell Carcinoma](https://doi.org/10.1016/j.cell.2020.05.039) |
+| mouse_intestine_sc | scRNA-seq | mouse | the small intestinal villus | LCM | [GSE109413](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE109413) | [Spatial Reconstruction of Single Enterocytes Uncovers Broad Zonation along the Intestinal Villus Axis](https://doi.org/10.1016/j.cell.2018.08.063) |
+| mouse_intestine_st | Spatial transcriptomics | mouse | colon | 10x Visium | [GSE169749](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE169749) | [The spatial transcriptomic landscape of the healing mouse intestine following damage](https://doi.org/10.1038/s41467-022-28497-0) |
+
+
+
+
+
+
+
+
