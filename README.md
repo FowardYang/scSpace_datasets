@@ -28,6 +28,22 @@
 | human_SCC_sc | scRNA-seq | human | skin squamous cell carcinoma | 10x Genomics | [GSE144240](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE144240) | [Multimodal Analysis of Composition and Spatial Architecture in Human Squamous Cell Carcinoma](https://doi.org/10.1016/j.cell.2020.05.039) |
 | mouse_intestine_sc | scRNA-seq | mouse | the small intestinal villus | LCM | [GSE109413](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE109413) | [Spatial Reconstruction of Single Enterocytes Uncovers Broad Zonation along the Intestinal Villus Axis](https://doi.org/10.1016/j.cell.2018.08.063) |
 | mouse_intestine_st | Spatial transcriptomics | mouse | colon | 10x Visium | [GSE169749](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE169749) | [The spatial transcriptomic landscape of the healing mouse intestine following damage](https://doi.org/10.1038/s41467-022-28497-0) |
+| mouse_liver_sc | scRNA-seq | mouse | liver lobule | MARS-seq | [GSE84498]( https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE84498) | [Single-cell spatial reconstruction reveals global division of labour in the mammalian liver]() |
+| mouse_liver_st | Spatial transcriptomics | mouse | liver | 10x Visium |  |  |
+| mouse_neocortex_sc | scRNA-seq | mouse | V1 neocortex | SMART-Seq v4 |  |  |
+| mouse_kidney_sc | scRNA-seq | mouse | kidney | 10x Genomics |  |  |
+| mouse_kidney_st_10x | Spatial transcriptomics | mouse | kidney | 10x Visium |  |  |
+| mouse_kidney_st_slideseq | Spatial transcriptomics | mouse | kidney | Slide-seq v2 |  |  |
+| mouse_cortex_atac | scATAC-seq | mouse | cortex | ISSAAC-seq |  |  |
+| human_heart_sc | scRNA-seq | human | embryonic heart | 10x Genomics | |  |
+| human_heart_st | Spatial transcriptomics | human | embryonic heart | ST | |  |
+| human_brain_sc_mtg | snRNA-seq | human | MTG | SMART-Seq v4 |  |  |
+| human_brain_sc_multiple | snRNA-seq | human | multiple human cortical areas, covering MTG, ACC, V1C, M1C, S1C and A1C | SMART-Seq v4 |  |  |
+| human_melanoma_sc | scRNA-seq | human | melanoma | SMART-Seq2 |  |  |
+| human_melanoma_st | Spatial transcriptomics | human | melanoma | ST |  |  |
+| human_COVID19_sc | scRNA-seq | human | lung | 10x Genomics |  |  |
+| human_COVID19_st | Spatial transcriptomics | human | lung | 10x Visium |  |  |
+| human_COVID19_dsp | Spatial transcriptomics | human | lung | GeoMx DSP |  |  |
 
 
 
